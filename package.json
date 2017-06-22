@@ -1,0 +1,28 @@
+{
+  "name": "frukostklubben.se",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbennich/frukostklubben.git"
+  },
+  "author": "victor bennich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "http": "*",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "4.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/vbennich/bennich.se/issues"
+  },
+  "homepage": "https://github.com/vbennich/bennich.se#readme"
+}
